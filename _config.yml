@@ -117,15 +117,6 @@ exclude:
   - .env.template.default.default.default.default.default.default.default.default.default
   - .env.default.default.default.default.default.default.default.default.default.default
   - .env.local.default.default.default.default.default.default.default.default.default.default
-  - .env.development.default.default.default.default.default.default.default.default.default
-  - .env.production.default.default.default.default.default.default.default.default.default
-  - .env.test.default.default.default.default.default.default.default.default.default
-  - .env.staging.default.default.default.default.default.default.default.default.default
-  - .env.example.default.default.default.default.default.default.default.default.default
-  - .env.sample.default.default.default.default.default.default.default.default.default
-  - .env.template.default.default.default.default.default.default.default.default.default
-  - .env.default.default.default.default.default.default.default.default.default.default.default
-  - .env.local.default.default.default.default.default.default.default.default.default.default.default
   - .env.development.default.default.default.default.default.default.default.default.default.default
   - .env.production.default.default.default.default.default.default.default.default.default.default
   - .env.test.default.default.default.default.default.default.default.default.default.default
@@ -134,15 +125,9 @@ exclude:
   - .env.sample.default.default.default.default.default.default.default.default.default.default
   - .env.template.default.default.default.default.default.default.default.default.default.default
   - .env.default.default.default.default.default.default.default.default.default.default.default.default
-  - .env.local.default.default.default.default.default.default.default.default.default.default.default
-  - .env.development.default.default.default.default.default.default.default.default.default.default
-  - .env.production.default.default.default.default.default.default.default.default.default.default
-  - .env.test.default.default.default.default.default.default.default.default.default.default
-  - .env.staging.default.default.default.default.default.default.default.default.default.default
-  - .env.example.default.default.default.default.default.default.default.default.default.default
-  - .env.sample.default.default.default.default.default.default.default.default.default.default
-  - .env.template.default.default.default.default.default.default.default.default.default.default
-  - .env.default.default.default.default.default.default.default.default.default.default.default.default.default
-  - .env.local.default.default.default.default.default.default.default.default.default.default.default
+  - .env.local.default.default.default.default.default.default.default.default.default.default
   - .env.development.default.default.default.default.default.default.default.default.default.default
   - .env.production.default.default.default.default
+navigation:
+  - title: Showcase
+    url: /showcase/
